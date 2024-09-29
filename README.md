@@ -21,6 +21,7 @@ Follow these steps to clone and run the project on your local machine:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/vamshikrishnasankula/Assignment-5
+   cd Assignment-5
    cd helloworld_django
    ```
 
